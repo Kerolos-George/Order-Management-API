@@ -26,8 +26,8 @@ A Laravel-based RESTful API for managing orders and customers. This API provides
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/order-management-api.git
-cd order-management-api
+git clone https://github.com/Kerolos-George/Order-Management-API.git
+cd Order-Management-API
 ```
 
 2. Install dependencies:
